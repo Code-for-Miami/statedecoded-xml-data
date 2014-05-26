@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="chapter" level="2">Chapter 8 BUILDING CODE</unit>
+		<unit label="title" level="3">ARTICLE_III._FLORIDA_BUILDING_CODE</unit>
+	</structure>
+<catch_line>Sec. 8-31. Local technical amendments to Florida Building Code</catch_line>
+<text>
+<section prefix = "A">
+The County hereby adopts the following local technical amendments to Chapter 6 (Plumbing) of the Florida Building Code.
+604.4 Maximum flow and water consumption.
+The maximum water consumption flow rates and quantities for all plumbing fixtures, fixture fittings and appliances shall be in accordance with Table 604.4. Effective January 1, 2009, permit applications for new residential and commercial structures shall include high efficiency plumbing fixtures, fixture fittings and appliances as provided in Table 604.4. Such high efficiency plumbing fixtures, fixture fittings and appliances shall comply with the specifications in Table 604.4 or have received the U.S. Environmental Protection Agency (EPA) WaterSense Label.
+Exceptions:
+<section prefix = "1">
+Blowout design water closets [3.5 gallons (13L) per flushing cycle].
+</section>
+<section prefix = "2">
+Vegetable sprays.
+</section>
+<section prefix = "3">
+Clinical sinks [4.5 gallons (17 L) per flushing cycle].
+</section>
+<section prefix = "4">
+Service sinks.
+</section>
+<section prefix = "5">
+Emergency showers.
+
+_____
+TABLE 604.4 MAXIMUM FLOW RATES AND CONSUMPTION FOR PLUMBING FIXTURES, FIXTURE FITTINGS AND APPLIANCES
+<section prefix="1" type="table">
+<table class="table" cellpadding="3" cellspacing="0" width="100%" border="1" rules="all" style="text-align:left;"> 
+ <colgroup class="std"> 
+  <col width="50%" /> 
+  <col width="50%" /> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <td style="" valign="top" class="">PLUMBING FIXTURE OR FIXTURE FITTING</td> 
+   <td style="" valign="top" class="">MAXIMUM FLOW RATE<sup>(b)</sup> </td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Lavatory, private</td> 
+   <td style="" valign="top" class="">1.5 gpm at 60 psi</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Lavatory, public, (metering)</td> 
+   <td style="" valign="top" class="">0.25 gallon per metering cycle</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Lavatory, public (other than metering)</td> 
+   <td style="" valign="top" class="">0.5 gpm at 60 psi</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Shower head<sup>(a)</sup> </td> 
+   <td style="" valign="top" class="">1.5 gpm at 80 psi</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Sink faucet</td> 
+   <td style="" valign="top" class="">1.5 gpm at 60 psi</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Urinal</td> 
+   <td style="" valign="top" class="">&gt;&gt;Waterless or 0.5 gallon per flushing cycle</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Water closet</td> 
+   <td style="" valign="top" class="">1.28 gallons per flushing cycle</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Dishwasher (residential)</td> 
+   <td style="" valign="top" class="">6.5 gallons per cycle or less (Energy Star/Water Sense Certified)<sup>(c)</sup> </td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Dishwasher (commercial)</td> 
+   <td style="" valign="top" class="">Less than 1.2 gallons per rack for fill and dump machines and less than 0.9 gallons per rack for all other types of machines </td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Dishwasher (under the counter machines)</td> 
+   <td style="" valign="top" class="">1.0 gallon or less per rack for high-temperature machines and 1.7 gallons per rack for low-temperature machines </td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Washing machine</td> 
+   <td style="" valign="top" class="">Water factor of 8 or lower (Energy Star/Water Sense Certified)<sup>(c)</sup> </td> 
+  </tr> 
+ </tbody> 
+</table>
+</section>
+ 
+
+For SI:
+1 gallon = 3.785 L 1 gallon per minute = 3.785 L/m 1 pound per square inch = 6.895 kPa.
+
+(a) A hand-held shower spray is a shower head.
+(b) Consumption tolerances shall be determined from referenced standards.
+(c) Water factor in gallons per cycle per cubic foot.
+_____
+</section>
+</section>
+<section prefix = "B">
+The County hereby adopts the following local technical amendments to Chapter 29 (Residential) of the Florida Building Code.
+P2903.2 Maximum flow and water consumption.
+The maximum water consumption flow rates and quantities for all plumbing fixtures, fixture, fittings and appliances shall be in accordance with Table P2903.2a. Effective January 1, 2009, permit applications for new residential structures shall include high efficiency plumbing fixtures, fixture fittings and appliances as provided in Table P2903.2a. Such high efficiency plumbing fixtures, fixture fittings and appliances shall comply with the specifications in Table P2903.2a or have received the U.S. Environmental Protection Agency (EPA) WaterSense Label.
+_____
+TABLE P2903.2a MAXIMUM FLOW RATES AND CONSUMPTION FOR PLUMBING FIXTURES, FIXTURE FITTINGS AND APPLIANCES
+<section prefix="2" type="table">
+<table class="table" cellpadding="3" cellspacing="0" width="100%" border="1" rules="all" style="text-align:left;"> 
+ <colgroup class="std"> 
+  <col width="50%" /> 
+  <col width="50%" /> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <td style="" valign="top" class="">PLUMBING FIXTURE OR FIXTURE FITTING<br /> </td> 
+   <td style="" valign="top" class="">PLUMBING FIXTURE OR FIXTURE FITTING<br />MAXIMUM FLOW RATE<sup>(b)</sup> </td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Lavatory faucet</td> 
+   <td style="" valign="top" class="">1.5 gpm at 60 psi</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Shower head<sup>(a)</sup> </td> 
+   <td style="" valign="top" class="">1.5 gpm at 80 psi</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Sink faucet</td> 
+   <td style="" valign="top" class="">1.5 gpm at 60 psi</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Water closet</td> 
+   <td style="" valign="top" class="">1.28 gallons per flushing cycle</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Dishwasher (residential)</td> 
+   <td style="" valign="top" class="">6.5 gallons per cycle or less (Energy Star/Water Sense Certified)<sup>(c)</sup> </td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Washing machine</td> 
+   <td style="" valign="top" class="">Water factor of 8 or lower (Energy Star/Water Sense Certified)<sup>(c)</sup> </td> 
+  </tr> 
+ </tbody> 
+</table>
+</section>
+ 
+
+For SI:
+1 gallon = 3.785 L 1 gallon per minute = 3.785 L/m 1 pound per square inch = 6.895 kPa.
+
+(a) A handheld shower spray is a showerhead.
+(b) Consumption tolerances shall be determined from referenced standards.
+(c) Water factor in gallons per cycle per cubic foot.
+</section>
+</text>
+<history>(Ord. No. 08-14, § 1, 2-5-08; Ord. No. 08-100, § 1, 9-2-08)</history>
+<catch_line>Sec. 8-32. Local Administrative Amendments</catch_line>
+<text>
+<section prefix = "a">
+The County hereby adopts the following Local Administrative Amendment modifying Chapter 1 of the Florida Building Code.
+SECTION 103 POWERS AND DUTIES OF THE FLOODPLAIN ADMINISTRATOR
+103.1 Scope. In accordance with F.S. sec. 553.73, the Appointing Authority of Miami-Dade County and the Municipalities may delegate the authority to enforce the floodplain provisions of the Florida Building Code to a floodplain administrator, the Building Official, or any other appropriate agency or combination thereof.
+103.2 Intent. A floodplain administrator, the Building Official or any other appropriate agency or combination thereof, as designated, is authorized and directed to administer and enforce the flood provisions of the Florida Building Code and any adopted flood hazard ordinances. The designated authority shall delegate such duties and assignments as may be deemed necessary to carry out provisions of the Florida Building Code and any adopted flood hazard ordinances, to render interpretations consistent with the intent and purpose of these codes and may establish policies and procedures in order to clarify the application of their provisions.
+103.3 General. Where, in any specific case, different sections of the Florida Building Code or adopted flood hazard ordinances specify different materials, methods of construction or other requirements, the most restrictive shall govern.
+
+</section>
+</text>
+<history>(Ord. No. 12-57, § 1, 7-3-12)</history>
+<catch_line>Secs. 8-33—8-39. Reserved</catch_line>
+<text>
+</text>
+</law>

@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="chapter" level="2">Chapter 33 ZONING</unit>
+		<unit label="title" level="3">ARTICLE_VII._OFF-STREET_PARKING</unit>
+	</structure>
+<catch_line>Sec. 33-122. Required; definitions of parking space</catch_line>
+<text>
+Permanently maintained off-street parking for vehicles shall be provided in connection with any building or premises used or designed to be used for the purposes set forth in this article. Parking spaces on private roadways shall not be credited towards required parking. For the purpose of this article, each parking space shall be a minimum of eight and one-half (8.5) by eighteen (18) feet with the following exceptions:
+<section prefix = "1">
+Where parking spaces for the handicapped are to be provided, they shall be a minimum of eighteen (18) feet long and the width and quality shall be in accordance with the South Florida Building Code.
+
+Parking stall and aisle dimensions shall conform to the charts entitled "Minimum Parking Stall Dimension" and "Striping Detail" hereby incorporated as part of this section.
+
+MINIMUM PARKING STALL DIMENSIONS (IN FEET) AT VARIOUS ANGLES
+<section prefix="1" type="table">
+<table class="table" cellpadding="3" cellspacing="0" width="100%" border="1" rules="all" style="text-align:left;"> 
+ <colgroup class="std"> 
+  <col width="37.5%" /> 
+  <col width="12.5%" /> 
+  <col width="12.5%" /> 
+  <col width="12.5%" /> 
+  <col width="12.5%" /> 
+  <col width="12.5%" /> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <td style="" valign="top" class="">Dimension</td> 
+   <td style="" valign="top" class="">Symbol</td> 
+   <td style="" valign="top" class=""></td> 
+   <td style="" colspan="2" valign="top" class="">(8.5′ &#215; 18′)</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class=""></td> 
+   <td style="" valign="top" class=""></td> 
+   <td style="" valign="top" class="">45&deg;</td> 
+   <td style="" valign="top" class="">60&deg;</td> 
+   <td style="" valign="top" class="">75&deg;</td> 
+   <td style="" valign="top" class="">90&deg;</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Stall width, parallel to aisle</td> 
+   <td style="" valign="top" class="">A</td> 
+   <td style="" valign="top" class="">12.0</td> 
+   <td style="" valign="top" class=""> 9.8</td> 
+   <td style="" valign="top" class=""> 8.8</td> 
+   <td style="" valign="top" class=""> 8.5</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Stall length of line</td> 
+   <td style="" valign="top" class="">B</td> 
+   <td style="" valign="top" class="">26.5</td> 
+   <td style="" valign="top" class="">22.9</td> 
+   <td style="" valign="top" class="">20.3</td> 
+   <td style="" valign="top" class="">18.0</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Stall depth to wall</td> 
+   <td style="" valign="top" class="">C</td> 
+   <td style="" valign="top" class="">18.7</td> 
+   <td style="" valign="top" class="">19.8</td> 
+   <td style="" valign="top" class="">19.6</td> 
+   <td style="" valign="top" class="">18.0</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Aisle width between stall lines</td> 
+   <td style="" valign="top" class="">D</td> 
+   <td style="" valign="top" class="">12.0</td> 
+   <td style="" valign="top" class="">17.0</td> 
+   <td style="" valign="top" class="">21.0</td> 
+   <td style="" valign="top" class="">22.0</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Stall depth, interlock</td> 
+   <td style="" valign="top" class="">E</td> 
+   <td style="" valign="top" class="">15.7</td> 
+   <td style="" valign="top" class="">17.7</td> 
+   <td style="" valign="top" class="">18.5</td> 
+   <td style="" valign="top" class="">18.0</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Module, wall to interlock</td> 
+   <td style="" valign="top" class="">F</td> 
+   <td style="" valign="top" class="">46.5</td> 
+   <td style="" valign="top" class="">54.6</td> 
+   <td style="" valign="top" class="">59.1</td> 
+   <td style="" valign="top" class="">58.0</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Module, interlocking</td> 
+   <td style="" valign="top" class="">G</td> 
+   <td style="" valign="top" class="">43.5</td> 
+   <td style="" valign="top" class="">52.4</td> 
+   <td style="" valign="top" class="">58.0</td> 
+   <td style="" valign="top" class="">58.0</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Module, interlock to curb face</td> 
+   <td style="" valign="top" class="">H</td> 
+   <td style="" valign="top" class="">44.7</td> 
+   <td style="" valign="top" class="">52.4</td> 
+   <td style="" valign="top" class="">56.7</td> 
+   <td style="" valign="top" class="">55.5</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Bumper overhang (typical)</td> 
+   <td style="" valign="top" class="">I</td> 
+   <td style="" valign="top" class=""> 1.8</td> 
+   <td style="" valign="top" class=""> 2.2</td> 
+   <td style="" valign="top" class=""> 2.4</td> 
+   <td style="" valign="top" class=""> 2.5</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Offset</td> 
+   <td style="" valign="top" class="">J</td> 
+   <td style="" valign="top" class=""> 6.0</td> 
+   <td style="" valign="top" class=""> 2.5</td> 
+   <td style="" valign="top" class=""> 0.6</td> 
+   <td style="" valign="top" class=""> 0.0</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Setback</td> 
+   <td style="" valign="top" class="">K</td> 
+   <td style="" valign="top" class="">12.7</td> 
+   <td style="" valign="top" class=""> 9.0</td> 
+   <td style="" valign="top" class=""> 4.7</td> 
+   <td style="" valign="top" class=""> 0.0</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Driveways</td> 
+   <td style="" valign="top" class="">L</td> 
+   <td style="" valign="top" class="">**</td> 
+   <td style="" valign="top" class="">**</td> 
+   <td style="" valign="top" class="">**</td> 
+   <td style="" valign="top" class="">**</td> 
+  </tr> 
+ </tbody> 
+</table>
+</section>
+ 
+
+For parallel parking minimum widths and length are 8.0′ × 23.0′.
+** Driveways where there is no parking on either side shall be a minimum of twenty (20) feet in width for two-way traffic and fourteen (14) feet for one-way traffic. Access drives between the paved portion of the right-of-way and the property line shall comply with the Miami-Dade County public works manual.
+
+For all occupancies other than residential, the parking spaces shall be marked with double striping on each side of the space to identify and facilitate their use. All striping shall be of a color (typically white) contrasting with the pavement. Dimension requirements, as noted elsewhere, shall be measured to the center point of the double stripe, as shown on the "Striping Detail" hereby incorporated as part of this section. Notwithstanding the above provisions and striping details, where striping is required for residential users, not less than a single four-inch stripe shall be provided, with parking stall dimensions to be measured to the center line of the strip. In all instances, adequate interior driveways and ingress and egress driveways shall be provided to connect all parking spaces with a public right-of-way or alley. Where a parking space heads into and abuts a walkway, the paved eighteen-foot length shall be provided a wheel stop or curb at sixteen (16) feet in order to prevent extension of the vehicle over any portion of the provided walkway width. Required and surplus parking shall comply with these provisions and such parking shall not be placed in dedicated or official rights-of-way.
+</section>
+</text>
+<catch_line>Sec. 33-122.1. Exceptions from parking lot configuration</catch_line>
+<text>
+Notwithstanding provisions of this ordinance to the contrary, buildings which have received a certificate of use and occupancy prior to the effective date of this ordinance may utilize the following standards for expansion providing that: (1) the expansion does not exceed ten (10) percent of the on-site building square footage existing as of the effective date of this ordinance, and (2) a covenant suitable for recording is submitted establishing the calculations and conditions upon which the additional square footage has been permitted. However, the area of building expansion must comply to the ration of parking space to square footage requirements contained elsewhere in this article.
+<section prefix = "1">
+Standard size parking stalls shall measure nine (9) feet by nineteen (19) feet and have a clear back up of twenty-four (24) feet.
+</section>
+<section prefix = "2">
+Compact stalls shall measure seven and one-half (7.5) feet by fifteen (15) feet with a clear back up of twenty (20) feet. The percentage of compact spaces in any individual parking facility shall not exceed thirty-five (35) percent for facilities of twenty-five (25) to fifty (50) spaces; forty (40) percent for facilities of fifty-one (51) to two hundred fifty (250) spaces; and forty-five (45) percent for facilities of two hundred fifty-one (251) or more spaces. Said spaces shall be clearly designated "compact cars only."
+
+</section>
+</text>
+<catch_line>Sec. 33-122.2. Parking spaces for persons transporting young children and strollers</catch_line>
+<text>
+Parking spaces specifically designed for persons transporting young children under the age of three (3) and strollers, shall be required for all uses other than single-family, duplex, townhouse or multifamily; provided, however, industrial zoned properties shall not be required to comply with this section. Such baby stroller parking spaces shall be provided as follows:
+<section prefix = "a">
+Quality of specially designated parking spaces:
+<section prefix="2" type="table">
+<table class="table" cellpadding="3" cellspacing="0" width="100%" border="1" rules="all" style="text-align:left;"> 
+ <colgroup class="std"> 
+  <col width="50%" /> 
+  <col width="50%" /> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <td style="" valign="top" class="">Total Parking Spaces in Lot</td> 
+   <td style="" valign="top" class="">Required Number of Spaces</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Up to 100</td> 
+   <td style="" valign="top" class="">0</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">101 to 500</td> 
+   <td style="" valign="top" class="">2</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">501 to 1,000</td> 
+   <td style="" valign="top" class="">3</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Over 1,000</td> 
+   <td style="" valign="top" class="">One (1) additional space for each 500 parking spaces over 1,000</td> 
+  </tr> 
+ </tbody> 
+</table>
+</section>
+ 
+</section>
+<section prefix = "b">
+Location of parking spaces. Such spaces shall be located as closely as possible to parking spaces designated for the physically handicapped and/or disabled persons; provided however, parking spaces designated for the physically handicapped and/or disabled persons shall take precedence. Where no parking spaces designated for the physically handicapped and/or disabled persons have been provided, parking spaces for persons transporting young children and strollers shall be located on the shortest accessible route of travel from adjacent parking to an accessible entrance.
+</section>
+<section prefix = "c">
+Signage and markings. All parking spaces for persons transporting young children and strollers shall be prominently outlined with green paint and posted with an approved permanent above-ground sign which shall conform to the figure entitled "Baby Stroller Parking Sign" hereby incorporated in this section. The bottom of the sign must be at least five (5) feet above grade when attached to a building, or seven (7) feet above grade for a detached sign.
+
+
+All property owners who are required by this section to provide parking spaces for persons transporting young children and strollers shall provide such parking spaces within two (2) years from the effective date of the ordinance from which this section derives (Ordinance No. 94-104). In no event shall the number of parking spaces for the physically handicapped and/or disabled be reduced below the quantity required by the South Florida Building Code.
+</section>
+</text>
+<catch_line>Sec. 33-122.3. Requirement of bicycle racks or other means of storage</catch_line>
+<text>
+Racks or other means of storage that can secure at least four (4) bicycles shall be required for all park, shopping center, office and restaurant uses with parking lots, as follows:
+<section prefix = "a">
+Quantity of bicycle parking spaces required:
+<section prefix="3" type="table">
+<table class="table" cellpadding="3" cellspacing="0" width="100%" border="1" rules="all" style="text-align:left;"> 
+ <colgroup class="std"> 
+  <col width="50%" /> 
+  <col width="50%" /> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <td style="" valign="top" class="">Total Parking Spaces in Lot</td> 
+   <td style="" valign="top" class="">Required Number of Bicycle Parking Spaces:</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">25 to 50</td> 
+   <td style="" valign="top" class="">4</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">51 to 100</td> 
+   <td style="" valign="top" class="">8</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">101 to 500</td> 
+   <td style="" valign="top" class="">12</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">501 to 1000</td> 
+   <td style="" valign="top" class="">16</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">over 1000</td> 
+   <td style="" align="left" valign="top" class="">four (4) additional spaces for each 500 parking spaces over<br />1000.<br /></td> 
+  </tr> 
+ </tbody> 
+</table>
+</section>
+ 
+</section>
+<section prefix = "b">
+Other uses. All other uses, other than airport or seaport terminals, single-family, duplex or townhouse which are exempt, shall provide racks or other means of storage as provided herein only where their total parking lot has one hundred one (101) or more spaces.
+</section>
+<section prefix = "c">
+Location and design of bicycle parking spaces; requirements.
+<section prefix = "1">
+The bicycle parking spaces shall be located near the entrances to the building.
+</section>
+<section prefix = "2">
+At buildings and shopping centers that have multiple parking lots, the bicycle parking spaces should be installed near the entrances to the buildings served by the lots.
+</section>
+<section prefix = "3">
+The bicycle parking spaces should be in a highly visible, well lighted location that provides enough clear space to facilitate easy use and does not impede pedestrian traffic or handicap accessibility.
+</section>
+<section prefix = "4">
+The parking spaces may not be placed in the County maintained right-of-way.
+</section>
+<section prefix = "5">
+The design of the bicycle rack should permit the locking of the frame and at least one (1) wheel with a standard size "U" lock and accommodate the typical range of bicycle sizes.
+</section>
+<section prefix = "6">
+The bicycle rack must resist removal, resist rust, corrosion and vandalism, and must be properly maintained.
+</section>
+</section>
+<section prefix = "d">
+Other forms of storage. At the owner's option, bicycle parking may also be installed in the form of storage rooms, lockers or cages.
+</section>
+<section prefix = "e">
+Signage and markings. All bicycle parking spaces shall be posted with a permanent and properly maintained above-ground sign which shall conform to the figure entitled "Secured Bicycle Parking" hereby incorporated in this section. The bottom of the sign must be at least five (5) feet above grade when attached to a building, which may not be installed in the County maintained right-of-way. No permit shall be required for such signs.
+
+
+Bicycle Parking Sign
+</section>
+<section prefix = "f">
+Application to existing uses. All property owners of existing establishments that are required by this section to provide bicycle parking spaces shall comply within one (1) year from the effective date of the ordinance from which this section derives and shall be responsible to maintain such facilities. Existing multifamily uses are exempt from this subsection.
+
+</section>
+</text>
+<catch_line>Sec. 33-122.4. Reserved</catch_line>
+<text>
+</text>
+<EditorsNote>
+Ord. No. 03-160, § 7, adopted July 8, 2003, repealed section 33-122.4 in its entirety. Former section 33-122.4 pertained to litter containers and derived from Ord. No. 00-47, § 1, adopted April 11, 2000.
+</EditorsNote>
+<catch_line>Sec. 33-123. Approval of plan before issuance of permits</catch_line>
+<text>
+Prior to the issuance of any building, paving, grading and leveling or other permits, a suitable sketch must be presented to the Department indicating the parking layout drainage on the premises and indicating all driveways extending beyond the property line into the public right-of-way. The drainage plan for the premises shall meet with the approval of the Department of Public Works. The driveway plan must meet with the approval of the Director and the Director of the Public Works Department on all roads and in approving or rejecting the plan, the Directors shall determine that their decision is in the interest of public safety and welfare, taking into consideration the volume of traffic to be generated, its pattern and conflict with the adjacent road traffic; the number of driveways proposed and their proximity to others in the area; location and proximity of median cuts; visual clearances or obstructions at the driveways; angle and location of driveway and its intersection with the road; elevation of the driveway in reference to the road, and any other factors that may affect the safety and welfare of the public. In addition all driveways extending into State roads shall meet with the approval of the State and Department.
+</text>
+<catch_line>Sec. 33-124. Standards</catch_line>
+<text>
+Off-street parking shall be provided in accordance with the following minimum standards:
+<section prefix = "a">
+Dwellings:
+<section prefix = "1">
+Single-family dwellings not specifically referenced elsewhere in this section shall be provided two (2) parking spaces. Paving of said spaces shall not be required.
+</section>
+<section prefix = "2">
+Two-, three- and four-unit dwellings shall be provided two (2) parking spaces per unit.
+</section>
+<section prefix = "3">
+Townhouses shall be provided a minimum of two (2) off-street parking spaces per townhouse unit. Such parking spaces may be provided on the lot of the townhouses or in a commonly owned and maintained off-street parking bay or facility; provided, that no parking space shall be more than one hundred fifty (150) feet, by the most direct pedestrian route, from the door of the townhouse to the parking space it is intended to serve.
+Each townhouse site shall have its own off-street parking area and driveway thereto where on-site off-street parking is to be provided. In addition to the above required residents off-street parking spaces, a minimum of twenty-five hundredths (0.25) visitors parking spaces per townhouse shall be provided in a convenient commonly owned and maintained off-street parking bay or facility. Individual garages shall not be credited towards the parking requirement.
+</section>
+<section prefix = "4">
+Cluster communities shall have two and one-quarter (2.25) parking spaces provided for each dwelling unit either on the individually owned lot(s) or on common property. Tandem parking is permitted only on individual lots and in the driveways connecting such lots with the adjacent roads provided said driveways are for the exclusive use of each individual lot; however, tandem parking shall be limited to no more than one (1) such tandem parking space for each individual lot. Individual garages shall not be credited towards the parking requirement.
+</section>
+<section prefix = "5">
+Zero lot line communities shall have a minimum of two (2) off-street parking spaces provided on each platted lot.
+In addition, zero lot line communities shall provide one (1) guest parking space for every four (4) dwelling units for all projects, except for those developed on public streets.
+Tandem parking is permitted only on individual lots and in the driveways connecting such lots with the adjacent roads; provided, said driveways are for the exclusive use of each individual lot; however, tandem parking shall be limited to no more than one (1) such tandem parking space for each individual lot. Individual garages shall not be credited towards the parking requirement.
+</section>
+<section prefix = "6">
+Five (5) or more unit apartment buildings or apartment hotels:
+One and one-half (1.50) parking spaces for each guest room, efficiency, or one (1) bedroom unit.
+One and three-quarters (1.75) parking spaces for each two-bedroom unit.
+Two (2.0) parking spaces for each three- or more bedroom unit.
+</section>
+<section prefix = "7">
+A minimum of two (2) off-street parking spaces shall be provided for each mobile home space, both such parking spaces may be on the mobile home space, and each of the same shall be hard surfaced, or one (1) or both parking spaces may be in a common parking court, such courts, where provided, to be installed throughout the park to conveniently serve the inhabitants in different areas of the park, and such courts shall be hard surfaced.
+</section>
+</section>
+<section prefix = "b">
+Hotels, rooming houses. At least one (1) parking space for each of the first forty (40) individual guest rooms or suites; one (1) additional parking space for every two (2) guest rooms or suites thereafter. Public meeting rooms in hotels shall be further controlled as to parking by Subsection (e) of this section and by Subsection (k) where the meeting room does not contain permanent seats; and restaurants by Subsections (i) and (j). In addition, one (1) parking space shall be provided for each four (4) employees.
+</section>
+<section prefix = "c">
+Motels, tourist courts, bed and breakfast establishments, and transient accommodations. One (1) parking space for each individual sleeping room or bedroom.
+</section>
+<section prefix = "d">
+Churches. At least one (1) parking space for each one hundred (100) square feet or fractional part thereof of the seating area in the main auditorium (sanctuary), including adjacent areas which may be used as part of the auditorium.
+</section>
+<section prefix = "e">
+Reserved.
+</section>
+<section prefix = "f">
+Hospitals. At least one (1) parking space for each of the first three hundred (300) beds and one (1) additional parking space for every two (2) additional beds thereafter for patients contained in such building, plus one (1) parking space for each three (3) employees and resident staff members.
+</section>
+<section prefix = "g">
+Sanitariums, convalescent homes, homes for the aged and similar institutions. At least one (1) parking space for each two (2) beds for patients contained in such buildings, plus one (1) parking space for each two (2) employees.
+</section>
+<section prefix = "h">
+Commercial:
+<section prefix = "1">
+Retail—Food or grocery stores, drug and sundry stores, department stores, membership warehouses, retail stores, retail stores similar to the foregoing, banks, post offices, mortuaries, funeral homes, waiting rooms stations for common carriers and shopping centers shall be provided parking at a rate of one (1) parking space for each and every two hundred fifty (250) square feet of the gross floor area or fractional part thereof. All retail uses within enclosed malls in excess of three hundred thousand (300,000) square feet shall provide parking at the rate of one (1) parking space for each and every three hundred and fifty (350) square feet of the gross floor area or fractional part thereof, excluding theaters, restaurants and food courts which shall provide parking as delineated in this section.
+</section>
+<section prefix = "2">
+Auto dealership showrooms, garage and gas station bay areas, and similar uses shall be provided three (3) parking spaces for the first twenty-five hundred (2,500) square feet of floor area, or fractional part thereof, and one (1) parking space for each additional five hundred (500) square feet of gross floor area, or fractional part thereof, plus three (3) parking spaces for each five thousand (5,000) square feet, or fractional part thereof, of open lot area. Office and retail parts areas shall be provided parking spaces as otherwise contained in this article. Customer and employee parking shall be labeled as such.
+</section>
+<section prefix = "3">
+Furniture showrooms shall be provided three (3) parking spaces for the first twenty-five hundred (2,500) square feet of gross floor area, or fractional part thereof, and one (1) parking space for each additional five hundred (500) square feet of gross floor area or fractional part thereof. When such a use is located within any BU District, the site plan submitted to the Department shall illustrate future parking spaces based on a calculation of one (1) parking space for each two hundred fifty (250) square feet of gross floor area or fractional part thereof, which shall be provided in the event the furniture use is discontinued. The lot area reserved for future parking spaces shall remain unencumbered with any structures and shall be landscaped. However, this landscaped area shall not be credited toward the minimum required open space. Prior to the issuance of a Certificate of Use and Occupancy for any use other than a furniture store, the property owner must provide the required number of parking spaces for the intended use as provided elsewhere in the article.
+(3.1)
+Home improvement centers, including all storage/sales areas, shall have parking provided at a rate of one parking space for each two hundred fifty (250) square feet of gross floor area or fractional part thereof.
+</section>
+<section prefix = "4">
+Plant nurseries shall have parking provided at a rate of eight (8) spaces for the first acre, or fractional part thereof, and one (1) parking space for each two (2) acres thereafter up to ten (10) acres. One (1) additional parking space shall be provided for each five (5) acres or portion thereof thereafter.
+</section>
+<section prefix = "5">
+Packing plants shall have parking provided at a rate of one (1) parking space for each one thousand (1,000) square feet of gross floor area, or fractional part thereof.
+</section>
+<section prefix = "6">
+Open lot commercial uses such as, but not limited to, used care lots, storage yards and recreational vehicle sales lots shall be provided five (5) off-street parking spaces for the first five thousand (5,000) square feet of net lot area, or fractional part thereof and one (1) parking space for each additional five hundred (500) square feet of net lot area so used. These spaces shall be reserved for customer and employee parking only, and shall be labeled as such.
+</section>
+<section prefix = "7">
+Automobile gas stations/mini marts shall be provided one (1) parking space for each two hundred fifty square feet (250) of gross floor area or fractional part thereof, with a minimum of three (3) spaces which shall be designed so as not to interfere with the dispensing operation.
+</section>
+<section prefix = "8">
+Wholesale showrooms in the industrial districts shall be provided one (1) parking space for each six hundred (600) square feet of showroom area, or fractional part thereof.
+</section>
+<section prefix = "9">
+All commercial uses not identified in Subsections (1) through (7) above shall be provided three (3) parking spaces for the first twenty-five hundred (2,500) square feet of gross floor area, or fractional part thereof, and one (1) parking space for each and every additional five hundred (500) square feet of gross floor area, or fractional part thereof.
+</section>
+</section>
+<section prefix = "i">
+Restaurants, lounges, nightclubs, or similar places dispensing food, drink or refreshments.
+<section prefix = "1">
+Table service establishments shall be provided one (1) parking space for each fifty (50) square feet of floor area, or fractional part thereof devoted to patron use.
+</section>
+<section prefix = "2">
+Take-out establishments shall be provided one (1) parking space for each two hundred fifty (250) square feet of gross floor area, or fractional part thereof.
+</section>
+</section>
+<section prefix = "j">
+Adult Day Care Center, shall be provided with one (1) parking space for each five hundred (500) square feet of gross floor area, or equal to the combined total of personnel and transportation vehicles whichever is greater.
+</section>
+<section prefix = "k">
+Recreational and entertainment use:
+<section prefix = "1">
+Art galleries, amusement centers, cultural centers, libraries and museums shall be provided one (1) parking space for each two hundred fifty (250) square feet of gross floor area, or fractional part thereof.
+</section>
+<section prefix = "2">
+Banquet halls, bingo halls, convention halls and private clubs shall be provided one (1) parking space for each one hundred (100) square feet of patron area, or fractional part thereof.
+</section>
+<section prefix = "3">
+Bowling alleys, skating rinks, and indoor gun ranges shall be provided one (1) parking space per two hundred fifty (250) square feet of gross floor area, or fractional part thereof. Office, retail, restaurant and other areas in conjunction therewith shall have parking spaces provided as otherwise contained in this article.
+</section>
+<section prefix = "4">
+Dance, karate, and aerobics schools, and health/exercise studios shall be provided one (1) parking space for each one hundred (100) square feet of classroom area, or fractional part thereof. Office, retail, and restaurant areas in conjunction therewith shall have parking spaces provided as otherwise contained in this article.
+</section>
+<section prefix = "5">
+Golf courses shall be provided three (3) parking spaces per hole plus three (3) additional spaces. Office, retail, restaurant and other areas in conjunction therewith shall have parking provided as otherwise contained in this article.
+</section>
+<section prefix = "6">
+Live-aboard marinas shall be provided one (1) parking space per boat slip.
+</section>
+<section prefix = "7">
+Non-live-aboard marinas shall be provided one (1) parking space for each two (2) boat slips.
+</section>
+<section prefix = "8">
+Boats stored in racks shall be provided one (1) parking space for each three (3) boat racks.
+</section>
+<section prefix = "9">
+Stadiums and basketball gymnasiums shall be provided at least one (1) parking space for each four (4) seats.
+</section>
+<section prefix = "10">
+Commercial tennis and racquetball clubs shall be provided four (4) parking spaces per court. Office, retail, and restaurant areas in conjunction therewith shall have parking provided as otherwise contained in this article.
+</section>
+<section prefix = "11">
+Theaters, including move theaters, and general auditoriums shall be provided one (1) parking space for each one hundred (100) square feet of auditorium seating area or fractional part thereof.
+</section>
+<section prefix = "12">
+Open lot recreational use parking requirements shall be determined by the Director and such requirements shall be based on the number of people that can reasonably be expected to be on such premises at one (1) time. Said determination shall be calculated on a basis of one (1) parking space for each four (4) persons.
+</section>
+</section>
+<section prefix = "l">
+Schools.
+<section prefix = "1">
+Day nurseries, kindergarten and elementary schools: Total parking spaces shall equal the combined total of personnel and transportation vehicles.
+</section>
+<section prefix = "2">
+Junior high [schools]: Total parking spaces shall equal one and one-quarter (1¼) times the combined total of personnel and transportation vehicles.
+</section>
+<section prefix = "3">
+High schools, trade schools and colleges: One (1) parking space per two hundred (200) square feet of classroom area, including laboratories, libraries and administrative areas. Housing facilities on college campuses must provide off-street parking of two (2) spaces for each three (3) sleeping rooms. Other such uses, such as restaurants, auditoriums, theaters, etc., shall provide parking as required in this section for such uses. In addition, in connection with the foregoing schools, one (1) parking space shall be required for each four (4) employees, excluding teachers.
+ In connection with the foregoing school use, parking required for church use may be credited toward parking requirements for school use, where the same are operated by the same ownership and on the same property.
+ The applicant shall submit information substantiating the personnel and vehicle figures used for computing the above parking requirements.
+</section>
+</section>
+<section prefix = "m">
+Office, professional building or similar uses. One (1) parking space for each three hundred (300) square feet of gross floor area of such building or fractional part thereof.
+</section>
+<section prefix = "n">
+Industrial.
+<section prefix = "1">
+For a warehouse building, one (1) parking space shall be provided for each one thousand (1,000) square feet of gross floor area in the building up to ten thousand (10,000) square feet and then one (1) space for each two thousand (2,000) square feet of gross warehouse floor area thereafter. Office, retail and wholesale showroom areas provided in conjunction with the industrial use shall have parking spaces provided for such areas as otherwise contained in this article. Regardless of the intended mix of use, a minimum of two (2) parking spaces shall be provided for each bay in the building. In determining the number of bays, the Director shall take into account the possibility of partitioning the building into multiple units, the number and location of bathrooms, the number and location of overhead or other door openings, the layout of electrical circuits and air conditioning units, etc. In determining the number of spaces to be provided, the formula requiring the greatest number of parking spaces shall be applied.
+</section>
+<section prefix = "2">
+Where open lot or walled-in uses only are involved, such as salvage yards, batching plants, precast or prestressed concrete products, or the like, two (2) parking spaces for each five thousand (5,000) square feet of lot area shall be provided, or one (1) space for each two (2) employees shall be provided, whichever requires the greater number of parking spaces. Such parking spaces shall be located no farther than one thousand five hundred (1,500) feet from the industrial use in question. Such noncontiguous property to be used for parking must be located in BU-1A, BU-2, BU-3 or an industrial district.
+</section>
+<section prefix = "3">
+For a telecommunications hub, one (1) parking space for each two thousand (2,000) square feet of gross floor area shall be provided. Office areas provided in conjunction with the industrial use shall have parking spaces provided for such areas as otherwise contained in this article. In the event of a subsequent change in use from a telecommunications hub to a permitted, alternative use, the alternative use shall conform to the parking standards otherwise contained in this article. A variance to reduce the number of required parking spaces shall not be granted solely on the basis of a proposed change in use from an existing telecommunications hub to an alternative use.
+The ownership of the parking area shall be the same as that of the individual site which it is to serve. Before any permit for industrial use may be obtained, which under this chapter requires additional and separate parking areas, the owner of the industrial site shall cause to be recorded an agreement to the effect that the ownership of the industrial site and of the separate parking area shall remain the same until the regulations are amended eliminating the need for such separate parking area.
+Prior to the issuance of a building permit for the erection of a new structure or building, or for an addition thereto, either of which is to be used for industrial purposes, or prior to the issuance of a certificate of use and occupancy for a different use of an existing industrial structure or building, the applicant shall complete and execute a form prescribed by the Director which shall, among other things, provide the necessary information upon which the required off-street parking may be determined; and the applicant shall therein acknowledge that such information is submitted for such determination; and in the event of a change in use or additional use is contemplated, such additional off-street parking as may be required by this chapter, if any, must be furnished prior to such use change or additional use.
+</section>
+</section>
+<section prefix = "o">
+Housing for low and/or moderate income for older persons and/or persons with disabilities.
+<section prefix = "1">
+For any publicly owned or non-profit apartment building exceeding four (4) units providing housing for elderly persons or persons with disabilities that is developed and financially assisted under the United States Housing Act of 1937, fifty hundredths (0.50) parking space shall be provided for each dwelling unit in the apartment building.
+</section>
+<section prefix = "2">
+For any other apartment building exceeding four (4) units providing low and/or moderate income housing for older persons as defined by the Fair Housing Act, 42 U.S.C. § 3607, one (1) parking space shall be provided for each dwelling unit in the apartment building.
+</section>
+<section prefix = "3">
+Provisions of Chapter 33 of the Code of Miami-Dade County concerned with the requirements for lot coverage and open space shall remain enforced under this section. The lot area not used as a result of the decrease in parking spaces as required under Section 33-124(a) shall remain as open space and shall be landscaped or used for recreational purposes. Said open space shall be in addition to the open space requirements of the Code. The site plan submitted to the Department shall illustrate future parking spaces if the present parking requirements are inadequate pursuant to subdivision (4) herein.
+</section>
+<section prefix = "4">
+If it is determined by the Department at the time of annual renewal of certificate of occupancy that the parking reduction permitted pursuant to subsections (1) or (2) above does not allow adequate parking for the apartment building, the owner must increase the number of parking spaces to fulfill the needs as determined by the Director.
+</section>
+</section>
+<section prefix = "p">
+Self-service storage facilities.
+<section prefix = "1">
+Self-service storage facilities shall be defined as fully enclosed spaces used for warehousing which contain individual storage units with floor area no greater than four hundred (400) square feet and an interior height not to exceed twelve (12) feet. No wholesale or retail sales are permitted.
+</section>
+<section prefix = "2">
+In self-service storage facilities, off-street parking shall be provided on the following basis: One (1) parking space per five thousand (5,000) square feet of building area for the first twenty thousand (20,000) square feet of building; one (1) parking space per ten thousand (10,000) square feet (or fraction thereof) of building area thereafter; and one (1) parking space for the manager's apartment, where provided. One (1) parking space per four hundred (400) square feet of gross office area (or fraction thereof) shall also be provided. In the application of these regulations, a minimum number of five (5) off-street parking spaces shall be provided for any self-service storage facility regardless of size.
+
+</section>
+</section>
+</text>
+<catch_line>Sec. 33-124.1. Parking of commercial vehicles in residential or agricultural zones</catch_line>
+<text>
+<section prefix = "a">
+The following are hereby defined as commercial vehicles for the purpose of this section:
+Category 1. A vehicle that is a taxicab, a limousine under twenty (20) feet in length or any passenger vehicle truck or van with a maximum height of eight (8) feet from the ground marked with a sign, letters, identification numbers or emblem advertising or associating it in any way with a commercial enterprise other than those which identify the vehicle maker or dealer. A sport utility vehicle marked with a sign, letters, identification numbers or emblem advertising or associating it in any way with a commercial enterprise, other than those which identify the vehicle maker or dealer, shall be considered as a Category 1 vehicle. For purposes of this section, a passenger vehicle bearing an emblem or lettering of a government entity shall also be considered as a Category 1 vehicle.
+Category 2. A vehicle eight (8) feet or less in height that displays externally stored or mounted equipment either in a fixed or temporary manner which is visible of a commercial activity are visible including, but not limited to, food vending equipment, ladders, paint cans, lawn care equipment or fixtures and brackets necessary to carry such items. Trailers or utility trailers less than 20 feet in length which are enclosed or of an unenclosed design shall also be included as Category 2 vehicles.
+Category 3. A vehicle, other than a recreational vehicle as defined in section 33-20(f), exceeding twenty (20) feet in length or more than eight (8) feet in height from the ground including, but not limited to, tow trucks, dump trucks, construction or earth moving vehicles or equipment and semi-tractors and trailers.
+</section>
+<section prefix = "b">
+Storage or parking of certain commercial vehicles is allowed on private property in residential zones as follows:
+<section prefix = "1">
+In agriculturally zoned areas (AU) where a bona fide agricultural use, as defined in Section 19-3(B) of this Code, exists on private property, parking or storage of commercial vehicles used for agricultural purposes or in the transport of agricultural products is allowed as otherwise provided in this chapter.
+</section>
+<section prefix = "2">
+In residentially zoned districts, only two Category 1 vehicles may be parked at a residence.
+</section>
+<section prefix = "3">
+In residentially zoned districts, only one Category 2 vehicle may be stored or parked provided that it is kept within an enclosed garage or behind the front building line within a completely enclosed, opaque fence, screening wall or landscaping 6 feet in height at least ten (10) feet from the rear property line. If a Category 2 vehicle is so stored or parked, then only one Category 1 vehicle may also be stored or parked at such residence.
+</section>
+<section prefix = "4">
+For residential properties of four (4) or more units, the parking allowances provided for herein shall be applied as to each unit.
+</section>
+<section prefix = "5">
+Storage or parking of Category 3 vehicles are prohibited in all residentially zoned districts.
+</section>
+<section prefix = "6">
+The temporary parking of a Category 2 or 3 vehicle in front of the building line or in front of the buffer screen shall only be permitted for the purpose of loading or unloading of materials or persons or engaged in providing a commercial service at the premises or for the purpose of the driver to make a temporary convenience stop at the residence. However, a temporary or convenience stop shall be limited to no more than one hour in any 24-hour period.
+</section>
+</section>
+<section prefix = "c">
+Parking of certain commercial vehicles on the right-of-way is prohibited in residential zones as follows:
+<section prefix = "1">
+In areas zoned residential districts, it shall be unlawful for Category 2 or 3, vehicles, as herein defined, to be otherwise parked on the public right-of-way, unless actively engaged in the loading or unloading of materials or persons or engaged in providing a commercial service. Examples of providing commercial services include, but are not limited to, removal of disabled vehicles from private or public property presence at a construction site, delivery of goods, repair of household appliances and cleaning of household furniture.
+</section>
+</section>
+<section prefix = "d">
+Violations of these provisions are punishable as follows:
+<section prefix = "1">
+Any violation of this section is punishable by a civil fine of five-hundred dollars ($500.00). Upon a repeat violation of subsection 33-124.1(c), in addition to civil penalties, such vehicle may be towed or immobilized until all outstanding violations and enforcement costs have been paid. After 35 days of storage or immobilization, such vehicle may be disposed of pursuant to the provisions contained in Section 713.585, Florida Statutes. Any enforcement officer is hereby authorized to secure the assistance of the Miami-Dade Police Department to effect enforcement of these provisions.
+</section>
+<section prefix = "2">
+Whoever opposes, obstructs or resists an enforcement officer in the discharge of duties as provided in this section, upon conviction, shall be guilty of a misdemeanor of the second degree and shall be subject to punishment as provided by law.
+</section>
+</section>
+</text>
+<history>(Ord. No. 99-16, § 2, 2-2-99; Ord. No. 05-75, § 1, 4-19-05)</history>
+<catch_line>Sec. 33-125. Parking area on application for building permit</catch_line>
+<text>
+Applications for building or use permits shall indicate the area to be used for parking and permits shall be issued stating that such area shall be so reserved and developed. Recordable restrictions so reserving such area may be required at the discretion of the Director. Such area reserved for parking area will be marked on the zoning maps and no permits for additional use of such area shall be issued. Area reserved for parking in connection with any use shall be under the same ownership as that of the use itself.
+</text>
+<catch_line>Sec. 33-126. Surface of parking areas</catch_line>
+<text>
+<section prefix = "1">
+In the AU, RU-1, RU-2 and RU-3 Districts the area reserved for off-street parking shall be either graveled, mulched or hard-surfaced. In all other zones it shall be hard-surfaced. Where the parking area is hard-surfaced, the same shall consist of a good rolled rock base, well tamped and topped with oil and sand or with asphalt or surfaced with concrete. Occupancy of a given structure or premises shall be prohibited until the required parking area has been improved, inspected and approved.
+</section>
+<section prefix = "2">
+In all other districts, all off-street parking areas shall be surfaced with a minimum of a rolled six-inch rock base and a one-inch durable weatherproof asphaltic pavement. The occupancy or use of a given structure or premises shall be prohibited until the required off-street parking area has been improved, inspected and approved.
+</section>
+<section prefix = "3">
+All required off-street parking areas shall be properly drained so that no nuisance will be caused to adjacent or nearby properties. All construction shall comply with design standards as established by all applicable laws, ordinances and regulations.
+</section>
+<section prefix = "4">
+All required off-street parking areas shall be maintained in good repair and shall be kept in a reasonably clean and sanitary condition free from rodents, insects and vermin.
+</section>
+</text>
+<history>(Ord. No. 57-19, § 5(BB)(4), 10-22-57; Ord. No. 94-161, § 1, 9-13-94; Ord. No. 97-11, § 2, 2-25-97)</history>
+<catch_line>Sec. 33-127. Districts where parking area permitted between setback line and right-of-way</catch_line>
+<text>
+No parking areas including driveways except for minimum ingress and egress drives in the RU, EU, AU, GU and RU-5 (with the exception of RU-5A), Districts shall be located closer than twenty-five (25) feet to an official right-of-way except parking areas for single-family, two-family, three- and four-unit apartment uses.
+In the RU-1 and RU-2 Districts and single-family, two-family, three-unit apartment and four-unit apartment users in the RU-3 District, front, side, and side street setback areas may be used for off-street parking if said area is of sufficient depth to permit the parking of vehicles. Parking in the BU Districts shall be permitted between the required setback line and the official right-of-way line, providing a continuous, extensively planted greenbelt of not less than five (5) feet shall be placed along all property lines abutting said official right-of-way line. Parking in the IU-1, IU-2, IU-3 Districts shall be permitted between the required setback line and the official right-of-way line providing that greenbelt requirements as provided elsewhere in this chapter are satisfied. In no event may parking areas located in the setback areas be sheltered or enclosed in any manner.
+</text>
+<catch_line>Sec. 33-128. Location on same lot as use; exceptions</catch_line>
+<text>
+<section prefix = "a">
+Off-street parking areas shall be located on the same lot, parcel or premises as the use to be served; provided, if the use to be served is a business or commercial use, the parking area therefor may be on a lot or parcel of land that is in an IU or BU District and is within three hundred feet (300′) from the site of such business or commercial use to be served; provided such business or commercial use shall immediately terminate in the event such parking area therefor is not available and all those having any right, title or interest in and to such business or commercial use property site shall execute and place on the public records of this County a covenant approved by the Director that such business or commercial use shall cease and terminate upon the elimination of such parking area, and that no business or commercial use shall be made of such property until the required parking area is available and provided.
+</section>
+<section prefix = "b">
+Off-street parking areas shall be located on the same lot, parcel or premises as the use to be served; provided, if the use to be served is an apartment building, the parking area therefor may be located on a lot or parcel of land that is in the same apartment district which permits the use, or more liberal apartment or business district and within three hundred feet (300′) from the site of such apartment structure to be served, said distance to be measured by the normal and legal way a pedestrian would travel; provided such apartment use shall immediately terminate in the event such parking area therefor is not available and all parties having any right, title or interest in and to such apartment shall execute and place on the public records of this County a covenant approved by the Director that such apartment use shall cease and terminate upon the elimination of such parking area, and that no apartment or other use shall be made of such property until the required parking area is available and provided.
+</section>
+</text>
+<history>(Ord. No. 57-19, § 5(BB)(6), 10-22-57; Ord. No. 62-23, § 2, 6-5-62; Ord. No. 70-18, § 1, 3-11-70)</history>
+<catch_line>Sec. 33-129. Application of provisions to change of uses</catch_line>
+<text>
+This article shall apply to changes of uses as well as the establishment of new uses.
+</text>
+<catch_line>Sec. 33-130. Between business structure and public park</catch_line>
+<text>
+Where a business is adjacent to a park, neither the driveway nor the parking area shall be located between the business structure and the public park.
+</text>
+<catch_line>Sec. 33-131. Using parking areas for commercial parking lot</catch_line>
+<text>
+No area designated as a parking area in connection with any designated use or uses shall be operated as a commercial parking lot.
+</text>
+<catch_line>Sec. 33-132. Marking parking spaces; backing out into street; improvement of frontage</catch_line>
+<text>
+For all uses other than single-family, duplex or townhouse, the parking area shall be marked by painted lines, as otherwise provided in this chapter, indicating the individual parking spaces or stalls. In all districts, the parking area shall be so arranged that there is no backout into an adjacent private or public street, excepting only lots used for single-family or duplex use. The frontage along the entire parking area adjacent to the private or public street shall be curbed, walled or landscaped, except at entrances, exits, or drainage outlets approved by the Director and the Department of Public Works.
+</text>
+</law>

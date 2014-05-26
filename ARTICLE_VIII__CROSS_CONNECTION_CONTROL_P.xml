@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="chapter" level="2">Chapter 32 WATER AND SEWER REGULATIONS</unit>
+		<unit label="title" level="3">ARTICLE_VIII._CROSS_CONNECTION_CONTROL_P</unit>
+	</structure>
+<catch_line>Sec. 32-151. Scope and intent</catch_line>
+<text>
+Unless otherwise provided herein, this article applies to water customers of the Miami-Dade Water and Sewer Department, as defined herein. The purpose of this article is to implement the provisions of Section 62-555.360 of the Florida Administrative Code, promulgated under authority of Part VI of Chapter 403, Florida Statutes by the Department of Environmental Protection, which requires public water systems to establish a cross-connection control program to detect and prevent cross-connections that create or may create an imminent and substantial danger to public health. In addition to internal isolation required by the Florida Building Code, new water customers shall provide approved backflow preventers next to the service connection for the containment of their premises.
+</text>
+<catch_line>Sec. 32-152. Definitions</catch_line>
+<text>
+The following definitions shall apply in this Article:
+<section prefix = "a">
+Approved backflow preventer shall mean a backflow preventer as defined herein that is approved by the Department in accordance with applicable State and local regulations including the Florida Building Code.
+</section>
+<section prefix = "b">
+ANSI shall mean American National Standards Institute, Inc., 1430 Broadway, New York, N.Y. 10018.
+</section>
+<section prefix = "c">
+ASME shall mean American Society of Mechanical Engineers, 345 E. 47 St., New York, N.Y. 10017.
+</section>
+<section prefix = "d">
+ASSE shall mean American Society of Sanitary Engineering, 28901 Clemens Rd., Westlake, Ohio 41445.
+</section>
+<section prefix = "e">
+Auxiliary water supply shall mean any water supply on or available to the premises other than the public potable water supply. Auxiliary water supplies include, but are not limited to, another provider's potable water supply; a private water supply such as a well for domestic, irrigation or fire flow purposes; natural source(s) such as a spring, lake, river, stream, canal or ocean; used water; reclaimed water; and industrial fluids.
+</section>
+<section prefix = "f">
+AWWA Manual M14 3rd Ed. shall mean American Water Works Association Manual of Water Supply Practices "Recommended Procedure for Backflow Prevention and Cross-Connection Control", as amended.
+</section>
+<section prefix = "g">
+AWWA shall mean the American Water Works Association, 6666 W. Quincy Ave., Denver, Colorado 80235.
+</section>
+<section prefix = "h">
+Backflow shall mean the reversal of flow of water or inflow of other substances into a potable water distribution system through a cross-connection. Backflow may degrade the quality of the potable water below required standards.
+</section>
+<section prefix = "i">
+Backpressure shall mean any elevation of pressure in the downstream piping system above the supply pressure at the point of consideration, which could cause a reversal of the normal direction of flow.
+</section>
+<section prefix = "j">
+Backflow preventer shall mean a mechanical assembly or device or means that prohibits backflow into a potable water system. Only the following types may be approved:
+<section prefix = "1">
+Air gap separation (AG) shall mean unobstructed vertical physical separation between the free-flowing discharge end of a potable water supply pipeline and the flood level rim of an open or non-pressure receiving vessel. An approved air gap separation shall be at least double the diameter of the supply pipe measured vertically above the top of the rim of the vessel. In no case shall an air gap separation be less than one (1) inch.
+</section>
+<section prefix = "2">
+Double check detector assembly (DCDA) shall mean a specially designed assembly composed of a line-size approved double check valve assembly with a bypass containing a specific water meter and an approved double check valve assembly. The meter shall register accurately for only very low rates of flow up to three (3) gallons per minute (gpm) and shall show a registration for all rates of flow. The DCDA is used only on fire systems.
+</section>
+<section prefix = "3">
+Double check valve assembly (DC) shall mean an assembly composed of two (2) single, independently acting approved check valves, including tightly closing resilient seated shutoff valves located at each end of the assembly, and fitting with properly located resilient seated test cocks suitable for testing the water tightness of each check valve. A check valve is a valve that is drip-tight in the normal direction of flow when the inlet pressure is one (1) psi and the outlet pressure is zero. The check valve shall permit no leakage in a direction reverse to the normal flow. The closure element (e.g., clapper) shall be internally weighted or otherwise internally loaded to promote rapid and positive closure. This assembly shall be used only to protect against a nonhealth hazard.
+</section>
+<section prefix = "4">
+Pressure vacuum breaker (PVB) shall mean an assembly consisting of an independently operating internally loaded check valve and an independently operating loaded air inlet valve located on the discharge side of the check valve, with properly located resilient-seated test cocks and tightly closing resilient-seated shutoff valves attached at each end. The PVB prevents backsiphonage, but it is not effective, and should not be used, in backpressure conditions.
+</section>
+<section prefix = "5">
+Reduced pressure detector assembly (RPDA) shall mean a specially designed assembly composed of a line-size approved reduced pressure principle backflow prevention assembly with a bypass containing a specific water meter and an approved reduced pressure principle backflow preventer. The meter shall register accurately for only very low rates of flow up to three (3) gpm and shall show a registration for all rates of flow. The RPDA is used only on fire systems.
+</section>
+<section prefix = "6">
+Reduced pressure principle backflow preventer (RP) shall mean an assembly containing within its structure a minimum of two (2) independently acting approved check valves, together with an automatically operating pressure differential relief valve located between the two (2) check valves. The first check valve reduces the supply pressure by a predetermined amount so that during normal flow and at cessation of normal flow the pressure between the checks shall be less than the supply pressure. In case of leakage of either check valve, the differential relief valve, by discharging to the atmosphere, shall operate to maintain the pressure between the checks less than the supply pressure. These units are equipped with tightly closing resilient seated shut-off valves located at each end of the assembly, and with properly located resilient seated test cocks.
+</section>
+</section>
+<section prefix = "k">
+Backsiphonage shall mean a form of backflow due to a reduction in system pressure which causes a subatmospheric pressure to exist at a site in the water system.
+</section>
+<section prefix = "l">
+Building Official shall mean that official designated by the appointing authority, as defined in the Florida Building Code.
+</section>
+<section prefix = "m">
+Certified backflow preventer tester shall mean a person who has satisfactorily completed a nationally recognized backflow preventer testing training program that meets or exceeds any existing Florida Department of Environmental Protection (FDEP) standards or that is determined by Miami-Dade County to meet the requirements of the latest edition of AWWA M14 Manual. After satisfactorily completing a backflow preventer testing training program, as described above, the person shall be required to pass a written examination administered under the direction of Miami-Dade County Construction Trades Qualifying Board (CTQB). All testers are required to be re-certified by Miami-Dade County CTQB every two years. Backflow preventer testers who are currently certified as of the date of the ordinance from which this subsection derives will be permitted to test backflow preventers in Miami-Dade County until such time as the Miami-Dade County exam is first administered or until the existing certification expires whichever occurs later, but not to exceed two (2) years. In no event shall the training institute also serve as an examiner for the Miami-Dade County test. Code inspector shall have the meaning and powers defined in Section 8CC-3 of the County Code.
+</section>
+<section prefix = "n">
+Cross connection shall mean any temporary or permanent physical connection or arrangement between a public water system and any other system or source through which it is possible, given pressure differentials, for any substance other than potable water to flow into the public water system.
+</section>
+<section prefix = "o">
+Department shall mean the Miami-Dade Water and Sewer Department, including its director, employees, agents, designees, and successors.
+</section>
+<section prefix = "p">
+Existing water customer shall mean a water customer as defined herein for which a water meter is installed and operating on or before January 1, 2002.
+</section>
+<section prefix = "q">
+Florida Fire Prevention Code shall mean rule 69A-60 Florida Administrative Code.
+</section>
+<section prefix = "r">
+Industrial fluid shall mean any fluid or solution which is intended to be or has been used in or results from activities of manufacture, production, fabrication, repair, packaging, processing or sale of goods or services or growing of agricultural crops or for fire suppression purposes. This may include, but is not limited to: polluted used waters; polluted auxiliary water; all types of process waters; chemicals in fluid form, including pesticides and fertilizers; fuels and oils; acids and alkalies; circulated cooling waters connected to an open cooling tower and/or cooling waters that are chemically or biologically treated or stabilized with toxic substances.
+</section>
+<section prefix = "s">
+Internal isolation shall mean fixture isolation and/or isolation of an area or zone within a customer's premises, downstream of the service connection. Fixture isolation means installing an approved backflow preventer at the source of the potential contamination. Area or zone isolation is confining the potential source of contamination within a specific area.
+</section>
+<section prefix = "t">
+NFPA shall mean National Fire Protection Association, Quincy, Massachusetts.
+</section>
+<section prefix = "u">
+Nonhealth hazard shall mean substances which, although not dangerous to health, may impart offensive solids, color, odor or taste to the public water supply.
+</section>
+<section prefix = "v">
+New water customer shall mean a water customer, as defined herein, who applies for the provision of water service after January 1, 2002.
+</section>
+<section prefix = "w">
+Reclaimed water shall mean waste water which has received at least secondary treatment and basic disinfection and is approved for reuse in compliance with regulations of State agencies.
+</section>
+<section prefix = "x">
+Service connection shall mean the terminal end of water delivery from the public water system, that is, where the utility loses jurisdiction and sanitary control over the water at its juncture with the customer's water system. If a meter is installed at the end of the service connection, then the service connection shall mean the downstream end of the meter. Service connection shall also include water service connection from a fire hydrant and all other temporary or emergency water service connections from the potable water system.
+</section>
+<section prefix = "y">
+State agencies shall mean the Department of Environmental Protection, the Department of Health, the State Fire Marshal, their successors, and any other instrumentality of the State of Florida charged under provisions of Part VI of Chapter 403, Florida Statutes or other statute or regulation with testing, inspecting, certifying, enforcing, or otherwise assuring compliance with environmental, health and safety standards, especially those for safe drinking water.
+</section>
+<section prefix = "z">
+Tampering shall mean dismantling, removal, or rendering ineffective after installation, testing and certification, except in order to effect an approved replacement.
+<section prefix = "aa">
+Used water shall mean any water supplied to a customer's water system after it has passed through the service connection.
+<section prefix = "ab">
+Water customer shall mean any individual, municipality, corporation, partnership, firm, association or other entity receiving water service from the Department for consumption or usage within its premises or for resale to ultimate consumers.
+
+</section>
+</section>
+</section>
+</text>
+<catch_line>Sec. 32-153. Prohibition of uncontrolled cross-connections</catch_line>
+<text>
+It shall be unlawful for any water customer to install or maintain any cross connections without providing backflow prevention to protect the public water supply. To the extent required by law, educational materials shall be provided by the Department to water customers and to relevant businesses and employees, alerting them to the dangers of backflow through cross-connections and to prevention measures.
+</text>
+<catch_line>Sec. 32-154. Backflow preventers required</catch_line>
+<text>
+Certain water customers of the Department shall install a backflow preventer as provided herein. Backflow preventers installed in the facilities listed in (c) and (d) below shall be tested by a certified backflow preventer tester.
+<section prefix = "a">
+Water customers who own or operate or use or engage in the types of businesses, facilities, substances, and activities listed in (c) or (d) below shall install an approved backflow preventer of the type indicated below at the service connection entering their property, within the deadlines listed herein. The same deadlines apply to installation of backflow preventers on Classes 3, 4 and 5 fire suppression systems, as defined in Section 32-155 serving the premises. New water customers who own or operate or use or engage in the types of businesses, facilities, substances, and activities listed in (c) or (d) below shall have an approved backflow preventer as a condition of issuance of building permits or of a certificate of occupancy, and the permanent installation of a water meter. This requirement is not limited to those facilities, premises, uses or situations listed herein but also applies to any others distinctly determined by the Department to require such protection. Failure to install a required backflow preventer as required herein, will result in civil penalties to be levied against the responsible party, pursuant to Chapter 8CC of the Code of Miami-Dade County. In the event that the customer provides proof that a plumbing permit has been obtained from the applicable building department, and installs the required backflow preventer, within 90 days of notice of the violation, the Miami-Dade Water and Sewer Department may choose to waive the applicable penalties.
+</section>
+<section prefix = "b">
+In the event that the use of a property is changed to one listed in (c) or (d) below, and such property does not have a backflow preventer, the property owner must notify the Department of the new use and comply with this article.
+</section>
+<section prefix = "c">
+Backflow preventers shall be installed by existing water customers in the following facilities by June 1, 2007.
+<section prefix="1" type="table">
+<table class="table" cellpadding="3" cellspacing="0" width="100%" border="1" rules="all" style="text-align:left;"> 
+ <colgroup class="std"> 
+  <col width="50%" /> 
+  <col width="50%" /> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <td style="" valign="top" class="">Facility:</td> 
+   <td style="" valign="top" class="">Backflow Preventer*</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Beverage processing or bottling plant</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Chemical and petroleum manufacturing, storage, processing or treatment, including any facility where chemicals are used in processing a product, or where chemical baths are employed </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Construction sites</td> 
+   <td style="" valign="top" class="">DC</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Correctional facilities</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Dyeing plant</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Exterminating companies</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Funeral home; morgue</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Health care facilities: clinics, skilled</td> 
+   <td style="" valign="top" class=""></td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Nursing, intermediate care, veterinary, Ambulatory surgical centers</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Plating (chemical, electrochemical, Mechanical), including any plant with A chromium, cadmium or other plating Operation or a galvanizing, anodizing, Stripping, oxidizing, etching, passivating, Or pickling operation </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Power plant</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Radioactive materials present</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Reclaimed water customer</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Sewage or stormwater treatment plant, Pumping station, or any premises With a wastewater pump </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+ </tbody> 
+</table>
+</section>
+ 
+
+* Abbreviations refer to types of preventers described in Section 32-152(j).
+AG = Air gap
+DC = Double check value
+PVB = Pressure vacuum breaker
+RP = Reduced pressure principle backflow preventer
+</section>
+<section prefix = "d">
+Backflow preventers shall be installed by existing water customers in the following facilities by January 1, 2014:
+<section prefix="2" type="table">
+<table class="table" cellpadding="3" cellspacing="0" width="100%" border="1" rules="all" style="text-align:left;"> 
+ <colgroup class="std"> 
+  <col width="50%" /> 
+  <col width="50%" /> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <td style="" valign="top" class="">Facility:</td> 
+   <td style="" valign="top" class="">Backflow Preventer</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Agricultural premises, including livestock, poultry, and produce packing</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Aircraft plants and aircraft</td> 
+   <td style="" valign="top" class=""></td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Repair service</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Automotive manufacturing</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Automotive repair</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Auxiliary water supply present</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Brewery, winery, distillery</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Buildings with four stories or more above ground, or with booster pumps</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Car washes</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Cold storage plant, dairy, ice manufacture</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Cooling system, space heating hot-water or steam boiler, single-wall heat exchanger, or double-wall heat exchanger supplied from the public water system </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Customer of any type with a history of inadequately protected cross-connections</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Film processing or manufacture</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Food processing facility, including cannery, packing house, rendering plant, reduction plant, and any industrial facility where animal or vegetable matter is processed; not including food preparation </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Health care facility: health maintenance organizations, offices of health care providers, dialysis centers </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Irrigation systems using potable water if no backpressure</td> 
+   <td style="" valign="top" class="">PVB</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">  If backpressure may exist</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Laboratory, including those within schools and other businesses</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Laundry or dry cleaner with processing facilities on site, excluding self-service laundromats </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Marina, shipyard, boat storage or service facility, including piers and docks, where an outlet supplies water to vessels </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Metal manufacturing, cleaning, processing or fabricating plant</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Motion picture studio where water is used for scene tanks or special effects</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Oil (animal, vegetable or mineral) or gas production, development, processing, blending, storage, refinery, transmission and/or tank maintenance, testing and repair </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Paper manufacturing or processing plant</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Premises with multiple interconnected service connections</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Premise located within an Industrial District (IU) zoned area</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Restricted access facility where testers are prohibited entry by law and/or which is exempt from the inspection provisions of the plumbing code </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Rubber (natural or synthetic) or rubber goods manufacture, excluding small molding or tire retreading operations </td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Sand or gravel pit, classifying or processing plant</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Tanker type vehicles if feasible</td> 
+   <td style="" valign="top" class="">AG</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">  Otherwise</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Travel trailer and recreational vehicle parks</td> 
+   <td style="" valign="top" class="">RP</td> 
+  </tr> 
+ </tbody> 
+</table>
+</section>
+ 
+
+</section>
+<section prefix = "e">
+When an addition is made to an existing building and the addition is twenty-five (25) percent or more of the area of the existing building, a water customer who owns, operates, uses or engages in a business, facility, substance or activity of a type listed in (c) or (d) above shall install an approved backflow preventer of the appropriate type. When repairs and alterations amounting to more than fifty (50) percent of the value of the existing building are made during any twelve (12) month period, a water customer who owns, operates, uses or engages in a business, facility, substance or activity of a type listed in (c) or (d) above shall install an approved backflow preventer of the appropriate type. The value of a building or structure shall be the estimated cost of constructing a new building of like size, design and materials at the site of the original structure, assuming such site to be clear. Cost of additions, alterations and repairs shall be construed as the total cost of labor, materials and services based on current prices for new materials.
+</section>
+<section prefix = "f">
+All consecutive water systems (wholesale or volume customers) distributing the Department's potable water to their customers must have cross-connection control programs duly approved by their governing authorities, which are operated and maintained in accordance with Chapter 62-555.360, Florida Administrative Code. Any non-complying consecutive water systems may be required to install an approved backflow preventer assembly at the interconnection between the Department and the consecutive system. All consecutive water systems shall use reasonable good faith efforts to comply with the compliance dates specified in section 32-154
+</section>
+</text>
+<catch_line>Sec. 32-154.1. Reclaimed water regulations</catch_line>
+<text>
+All customers of properties using reclaimed water as an auxiliary source of water supply shall install a reduced pressure principle backflow preventer (RP) assembly on the potable water service connection. The RP assembly shall be installed immediately adjacent to the water meter serving the property. Existing customers must effect this installation before December 31, 2010. New water customers who own or operate such facilities shall install a RP assembly as a condition to permitting, issuance of a certificate of occupancy, and installation of a water meter. The Department shall set forth specific limitations and requirements, in accordance with all rules and regulations promulgated by State agencies, in each customer agreement for use of reclaimed water. No reclaimed water shall be provided by the Department except under terms of an agreement with the customer.
+</text>
+<catch_line>Sec. 32-155. Fire suppression systems</catch_line>
+<text>
+<section prefix = "a">
+Fire suppression systems will be classified on the basis of water source and arrangement of supplies as follows:
+Class 1
+Direct connections from public service connection only; no pumps, antifreeze or other additives of any kind; all sprinkler drains discharging to atmosphere, dry wells, or other safe outlets.
+Class 2
+Same as Class 1 except that booster pumps may be installed in the connections. (Booster pumps do not affect the potability of the system.) It is necessary that pressure in the water main is not reduced below 20 psi to avoid drawing too much water from the main.
+Class 3
+Direct connection from the service connection, plus one (1) or more of the following: elevated storage tanks; fire pumps taking suction from aboveground covered reservoirs or tanks; pressure tanks. (All storage facilities are filled or connected to public water only; the water in the tanks is to be maintained in a potable condition. Otherwise, Class 3 systems are the same as Class 5.)
+Class 4
+Similar to Class 1 and Class 2, but with an auxiliary water supply dedicated to Fire Department use and available to the premises, such as an auxiliary supply located within 1700 feet (518m) of the pumper connection.
+Class 5
+Directly supplied from the service connection and interconnected with auxiliary supplies, such as pumps taking suction from reservoirs exposed to contamination, or rivers and ponds; driven wells; mills or other industrial water systems; or where antifreeze or other additives are used.
+</section>
+<section prefix = "b">
+New water customers and existing water customers who are installing new fire suppression systems shall install backflow preventers on all fire suppression systems in accordance with the table below and within the applicable deadline provided in Section 32-154(c) and (d):
+<section prefix="3" type="table">
+<table class="table" cellpadding="3" cellspacing="0" width="100%" border="1" rules="all" style="text-align:left;"> 
+ <colgroup class="std"> 
+  <col width="50%" /> 
+  <col width="50%" /> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <td style="" valign="top" class="">Class</td> 
+   <td style="" valign="top" class="">Minimum Level of Protection*</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Class 1</td> 
+   <td style="" valign="top" class="">DCDA</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Class 2</td> 
+   <td style="" valign="top" class="">DCDA</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Class 3</td> 
+   <td style="" valign="top" class="">DCDA</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Class 4</td> 
+   <td style="" valign="top" class="">RPDA</td> 
+  </tr> 
+  <tr> 
+   <td style="" valign="top" class="">Class 5</td> 
+   <td style="" valign="top" class="">RPDA</td> 
+  </tr> 
+ </tbody> 
+</table>
+</section>
+ 
+* Abbreviations refer to types of preventers described in Section 32-152(i).
+DCDA = double check detector assembly
+RPDA = reduced pressure detector assembly
+</section>
+<section prefix = "c">
+Existing water customers with Class 1 and Class 2 fire suppression systems are not required to install backflow preventers.
+</section>
+<section prefix = "d">
+All existing systems being modified or upgraded shall have provision for any additional head loss caused by inclusion of the required backflow preventer in the modification design.
+</section>
+<section prefix = "e">
+Exemptions may be granted to water customers with existing systems who can demonstrate to the satisfaction of the Department and the Miami-Dade Fire Rescue Department that installation of a backflow preventer would degrade the effectiveness of the fire protection system to a level unacceptable for fire suppression purposes.
+</section>
+<section prefix = "f">
+All installations, testing, maintenance, repairs and replacements of backflow preventers used for fire suppression systems shall be performed by a certified Fire Protection Contractor as defined in Section 633.021(5), Florida Statutes, and certified in accordance with Section 633.521, Florida Statutes.
+</section>
+<section prefix = "g">
+In accordance with NFPA-13, all fire department connections shall be on the street side of buildings and shall be located and arranged so that hose lines can be readily and conveniently attached to the inlets without interference from any nearby objects including buildings, fences, posts, or other fire department connections.
+</section>
+</text>
+<history>(Ord. No. 99-165, § 1, 12-7-99; Ord. No. 01-169, § 1, 10-23-01; Ord. No. 06-158, § 1, 10-24-06)</history>
+<catch_line>Sec. 32-156. Technical requirements</catch_line>
+<text>
+All approved backflow preventers shall conform to specifications set forth in the applicable building code and to rules and regulations promulgated by State agencies. The following specifications are adopted until and unless superseded:
+<section prefix = "a">
+Air Gap (AG) shall conform to ANSI/ASME standard A 112.1.2-1991.
+</section>
+<section prefix = "b">
+All other preventers shall have satisfactorily passed a laboratory and field evaluation in accordance with the latest editions of either Section 10 of the ninth edition of the University of Southern California's Manual of Cross-Connection Control and been approved by the University of Southern California Foundation for Cross Connection Control and Hydraulic Research (USC-FCC and HR); or with ANSI/AWWA Standard C510-97 or C511-97. They are required to be testable in line.
+</section>
+<section prefix = "c">
+Reduced Pressure Principal Backflow Prevention Assembly (RP) shall conform to ASSE Standard 1013 or ANSI/AWWA Standard C511-97.
+</section>
+<section prefix = "d">
+Double Check Valve Assembly (DC) shall conform to ASSE Standard 1024 or ANSI/AWWA Standard C510-97.
+</section>
+<section prefix = "e">
+Pressure Vacuum Breaker Assembly (PVB) shall conform to ANSI/ASSE Standard 1020-1990.
+</section>
+<section prefix = "f">
+Double Check Detector Assembly (DCDA) shall conform to ANSI/ASSE Standard 1048-1995.
+</section>
+<section prefix = "g">
+Reduced Pressure Detector Backflow Assembly (RPD) shall conform to ANSI/ASSE Standard 1047-1995.
+</section>
+<section prefix = "h">
+Further specifications for backflow preventers and their installation, and additional and modified ones for specific purposes, may be provided in standard details and/or written specifications issued by the Department, in accord with standards adopted by the Florida Building Code and any regulations promulgated by State agencies.
+
+</section>
+</text>
+<catch_line>Sec. 32-157. Installation of backflow preventer</catch_line>
+<text>
+<section prefix = "a">
+Water customers, at their own expense, shall prepare plans and shall obtain a permit for the required backflow preventer. For properties located in unincorporated Miami-Dade County, the Miami-Dade County Building Official shall review said plans and charge a fee in accordance with Administrative Order No. 4-63A, as may be modified from time to time, for the review of each backflow preventer and the issuance of a permit. In the case of fire suppression systems, the Miami-Dade Fire Rescue Department shall charge a fee in accordance with Administrative Order No. 4-45 to review and inspect each installation. The applicable municipal Building Official and municipal Fire Department may impose a similar fee for similar services. Permitting procedures and standard details shall be established and modified from time to time by means of agreements between and among applicable County, municipal and State agencies.
+</section>
+<section prefix = "b">
+The backflow preventer installer must be a validly licensed contractor possessing a certificate of competency appropriate for the preventer type and location involved.
+</section>
+<section prefix = "c">
+The backflow preventer shall be installed at the customer's expense on the customer's property immediately adjacent to the water meter serving that property. The customer shall provide adequate space for a backflow preventer on the customer's property. The backflow preventer shall be readily accessible for maintenance and testing. No part of it may be beneath the ground surface or submerged under water, and it must not be subject to flooding by a ten-year storm.
+</section>
+<section prefix = "d">
+The installation shall be located at the front property line at one (1) side of the property in accordance with the Department's standard details. All backflow preventers that are installed where visible from an area accessible to the public shall be shielded from public view by a visual barrier as listed below:
+<section prefix = "1">
+A barrier wall not more than six (6) inches above the highest point of the body of the assembly whereas the stems of the shutoff valves are visible from outside of the wall structure; or
+</section>
+<section prefix = "2">
+A recessed covered space which is part of the building envelope; or
+</section>
+<section prefix = "3">
+A manufactured cover for small diameter assemblies up to two (2) inches
+Such barriers shall be at least two (2) feet apart from the backflow preventer and must not obstruct access for maintenance and testing. Existing backflow preventer installations, shall be exempt from the installation of a visual barrier. Additionally, any such barrier shall be a minimum of seven and one-half (7-½) feet apart from any fire department connection including, but not limited to siamese connections and post indicator valves. Said fire department appliances are to be installed in accordance with the Florida Fire Prevention Code, and NFPA standards 13 and 24.
+</section>
+</section>
+<section prefix = "e">
+Upon completion of the installation, satisfactory testing shall be performed as provided in Section 32-163(b). Testing requires a water shutdown usually lasting five (5) to thirty (30) minutes. For facilities that require an uninterrupted supply of water, and when it is not possible to provide water service from two (2) separate meters, provisions shall be made for a parallel installation of backflow preventers. The existence of any unprotected bypass around a backflow preventer when the apparatus is in need of testing, repair or replacement is unlawful.
+</section>
+<section prefix = "f">
+The customer shall install plumbing lines of sufficient size to compensate for pressure losses which may result from operation of a backflow preventer. Provision must be made for thermal expansion.
+</section>
+<section prefix = "g">
+It shall be unlawful for any water connections to exist between the water meter and the backflow preventer.
+</section>
+<section prefix = "h">
+It shall be unlawful for any person to remove a backflow preventer from service without the express written consent of the Miami-Dade Water and Sewer Department, except for the purposes of replacement, as described in Section 32-164 (c). Unauthorized removal will be considered tampering, as described in Section 32-162 of the Code of Miami-Dade County.
+</section>
+</text>
+<history>(Ord. No. 99-165, § 1, 12-7-99; Ord. No. 01-169, § 1, 10-23-01; Ord. No. 06-158, § 1, 10-24-06)</history>
+<catch_line>Sec. 32-158. Exemptions</catch_line>
+<text>
+<section prefix = "a">
+Buildings of three (3) stories or less without booster pumps which contain only dwelling units (including single family residences, town homes, small apartment buildings), and all other structures or facilities not listed in Section 32-154, shall be exempt from the requirement of installation of a backflow preventer, provided that:
+<section prefix = "1">
+No cross-connections exist or are subsequently installed on the property;
+</section>
+<section prefix = "2">
+No uses or facilities listed in Section 32-154 receive water through the same service connection; and
+</section>
+<section prefix = "3">
+Any auxiliary water supply is not cross-connected.
+</section>
+</section>
+<section prefix = "b">
+Buildings of four (4) stories or more which contain only dwelling units (including condominium residences and apartment buildings) shall be exempt from the requirement of installation of a backflow preventer, provided that:
+<section prefix = "1">
+A certified plumber trained in cross-connection control conducts an annual inspection of the building's plumbing system to determine whether a cross-connection exists;
+</section>
+<section prefix = "2">
+Each inspection shall be reported to the Department within five (5) days of such inspection; and
+</section>
+<section prefix = "3">
+If an inspection of the building indicates a cross-connection, such cross-connection shall be eliminated pursuant to the provisions of this section.
+</section>
+</section>
+<section prefix = "c">
+Exemptions from or exceptions to the Department's standard details may be granted by the applicable Building Official or his designee for installation of backflow preventers where physical limitations are present, provided that the preventer as installed is tested satisfactorily and certified.
+</section>
+</text>
+<history>(Ord. No. 99-165, § 1, 12-7-99; Ord. No. 01-169, § 1, 10-23-01)</history>
+<catch_line>Sec. 32-159. Fire hydrants</catch_line>
+<text>
+Except for the use of fire hydrants for fire suppression purposes, any use of fire hydrants and fire systems by any person other than the Department or the applicable County or municipal Fire Department without the prior written approval of both, is prohibited and such person may be ordered to cease and desist by the applicable Fire Department.
+</text>
+<catch_line>Sec. 32-160. Access required</catch_line>
+<text>
+<section prefix = "a">
+Any code inspector, certified backflow preventer tester, or authorized representative of the Department, at any reasonable time upon reasonable notice and presentation of proper credentials, and upon consent by the property owner or person in charge of the property, building or place, may enter, monitor, sample, test, and inspect, as often as may be necessary, any structure, property, premises, building or place, public or private, residential or nonresidential within the water distribution system of the Department, for the purpose of assuring that no cross connections exist and that approved backflow preventers are in place where required. This right of access includes the right to effect any emergency actions necessary, including but not limited to disconnecting water service. Inspections of the facilities listed in Section 32-154, which pose the greatest potential hazard to the public water supply, are deemed to be a public necessity.
+</section>
+<section prefix = "b">
+No person shall refuse reasonable entry or access to the duly authorized representative who requests entry for any of the purposes set forth in (a) above and who presents appropriate credentials identifying himself.
+</section>
+<section prefix = "c">
+No person shall obstruct, hamper, or interfere with any such inspection, entry, monitoring, testing, or sampling.
+</section>
+<section prefix = "d">
+An inspection, entry, monitoring, testing and sampling, pursuant to this section may be conducted only after:
+<section prefix = "1">
+Consent for the entry, inspection, testing, monitoring and sampling is received from the owner or person in charge of the property, building, premises or place; or
+</section>
+<section prefix = "2">
+An inspection warrant as provided in this section or by law is obtained.
+</section>
+</section>
+<section prefix = "e">
+An inspection warrant is authorized by this article and may be issued by a judge of any County Court or Circuit Court of this State which has jurisdiction of the place or thing to be searched.
+</section>
+<section prefix = "f">
+The Department Director or his designee is hereby authorized and empowered to obtain all search or inspection warrants reasonable and necessary to carry out the responsibilities, powers and duties set forth in this article, in accordance with the requirements of the Constitutions of the United States of America and the State of Florida.
+</section>
+</text>
+<history>(Ord. No. 99-165, § 1, 12-7-99)</history>
+<catch_line>Sec. 32-161. Obstruction prohibited</catch_line>
+<text>
+It shall be unlawful for any water customer to maintain or place anything on or near a backflow preventer or other related equipment which obstructs access to the backflow preventer.
+</text>
+<catch_line>Sec. 32-162. Tampering prohibited</catch_line>
+<text>
+The intentional tampering with a backflow preventer, rendering it out of compliance with this article, is prohibited.
+</text>
+<catch_line>Sec. 32-163. Testing</catch_line>
+<text>
+<section prefix = "a">
+Testing standards. All required tests of backflow preventers shall be accomplished in accordance with the procedures in the latest editions of Chapter 8 of AWWA Manual M14 and Section 9 of the University of Southern California's Manual of Cross-Connection Control.
+</section>
+<section prefix = "b">
+Initial. All backflow preventers shall be installed under a plumbing, mechanical or fire permit obtained from the Building Official. The backflow preventer shall be tested by a certified backflow preventer tester as defined herein and certified as testing satisfactory prior to final plumbing approval being granted and prior to the installation of the permanent water meter. Where a permanent water meter is not yet installed, the certified tester shall obtain water for testing the backflow preventer cia a method approved by the Department.
+</section>
+<section prefix = "c">
+Annual.
+<section prefix = "1">
+All backflow preventers must be tested annually to assure that they are performing satisfactorily by a certified backflow preventer tester.
+</section>
+<section prefix = "2">
+The first annual testing of each backflow preventer installed subsequent to enactment of this article shall occur within twelve (12) months of installation.
+</section>
+</section>
+<section prefix = "d">
+Change of Occupancy or Ownership. Inspection of premises and satisfactory testing of an existing backflow preventer may be required before initiation of water service to a new customer or issuance of a new certificate of occupancy.
+</section>
+<section prefix = "e">
+Deficiencies. If deficiencies are identified during any testing, the tester shall provide the water customer and the Department with a listing of the defects, on a form acceptable to the Department, within five (5) days of the test, which warns the customer that defects must be repaired within thirty-five (35) days of the Department's receipt of the report. Retesting shall be performed at or before the end of that period.
+</section>
+</text>
+<history>(Ord. No. 99-165, § 1, 12-7-99; Ord. No. 06-158, § 1, 10-24-06)</history>
+<catch_line>Sec. 32-164. Repairs and replacement</catch_line>
+<text>
+<section prefix = "a">
+It is the customer's responsibility to assure that all defects listed by backflow preventer testers are corrected.
+</section>
+<section prefix = "b">
+Failure to complete repairs and have the backflow preventer certified as testing satisfactory within thirty-five (35) days of the Department's receipt of the report listing any deficiency shall result in a civil violation notice. The time allowed for correction shall be ten (10) days. Failure to correct the defect and comply with the civil violation notice may result in a civil action by the County.
+</section>
+<section prefix = "c">
+If a backflow preventer cannot be repaired to test satisfactorily, the customer shall replace it with the type required in Section 32-154 and have the replacement tested and certified.
+</section>
+<section prefix = "d">
+All repairs and replacement of a backflow preventer shall be done with a valid permit.
+</section>
+</text>
+<history>(Ord. No. 99-165, § 1, 12-7-99; Ord. No. 01-169, § 1, 10-23-01)</history>
+<catch_line>Sec. 32-165. Test Reporting</catch_line>
+<text>
+Upon completion of testing, a test report form approved by the Department shall be completed by the certified backflow preventer tester and submitted to the customer and to the Department, no later than ten (10) days following the test. If the backflow preventer required repair before testing satisfactorily, that fact shall be indicated.
+</text>
+<catch_line>Sec. 32-166. Modifications of facilities</catch_line>
+<text>
+Water customers shall notify the Department of any change of use of their premises or installation of fixtures or facilities which may affect the performance of existing backflow preventers or which may require installation of new backflow preventers. An evaluation of cross-connection protection needs must be performed by the Department before any such new uses or fixtures or facilities receive water service.
+</text>
+<catch_line>Sec. 32-167. Reporting and record-keeping</catch_line>
+<text>
+<section prefix = "a">
+All incidents of suspected or actual backflow shall be reported to the Department by all persons with knowledge.
+</section>
+<section prefix = "b">
+The Department shall retain all records incident to the cross-connection control program which are mandated by this article and by rules and regulations promulgated by State agencies pursuant to provisions of Part VI of Chapter 403, Florida Statutes.
+</section>
+</text>
+<history>(Ord. No. 99-165, § 1, 12-7-99)</history>
+<catch_line>Sec. 32-168. Enforcement</catch_line>
+<text>
+The following enforcement actions are authorized separately or in combination.
+<section prefix = "a">
+The Department may take emergency action to eliminate a cross connection involving a health hazard, or to stop and prevent backflow, by any practicable means, including disconnection of water service and installation of an approved backflow preventer, billing the customer for the cost of labor, applicable permit fees, and materials (including overhead and fringe benefits).
+</section>
+<section prefix = "b">
+The Department may refuse water service to a customer in violation of the provisions of this Article, or to a customer who does not pay costs of Department emergency action to prevent backflow within sixty (60) days. Water service may be withheld until the violation is corrected, the costs paid, fines for violations of this Chapter under Chapter 8CC paid, and the affected premises or facilities are certified to be in compliance with all requirements stated herein.
+</section>
+<section prefix = "c">
+The Department may add any costs of emergency action to prevent backflow which remain unpaid after sixty (60) days to the customer's bill for services and record and enforce a lien when and as authorized by Article VI of Chapter 32 of the County Code.
+</section>
+<section prefix = "d">
+Any person who violates any provision of this Article or any lawful rule, regulation or written order promulgated under it is liable for any damage caused by such violation to Miami-Dade County, including, but not limited to damage to the public water supply and costs of rectifying harm, and is also liable directly or indirectly for all damage to other parties. The County may undertake court actions to recover its damages, to restrain, abate or correct violations of this Article, to permit access and corrective action, and to prevent use and occupancy of any premises where a probable violation of this Article could endanger human health. The term "damages" herein shall be understood to include all those which may be recoverable in civil actions in the courts of Florida.
+</section>
+<section prefix = "e">
+This article may be enforced by code, invoking all applicable provisions of Chapters 8CC and 10 of the County Code, and the Florida Building Code, including, but not limited to, civil violation notices, administrative hearings, court appeals, and assessment of fines and costs with further penalties for non-payment.
+</section>
+<section prefix = "f">
+In addition to any civil penalty or court award of damages, any violator shall be liable for the reasonable costs and expenses incurred by the County in enforcing the provisions of this Article including, but not limited to, the labor and material costs (including overhead and fringe benefits) of emergency enforcement actions, inspections, permit fees, preparation of enforcement reports, photographs, title searches, postage, court or hearing attendance time, and other demonstrable administrative costs for enforcement and collection. All such sums shall become delinquent if not paid within thirty (30) days after receipt by the violator of the Department's bill itemizing the costs incurred in enforcing the provisions of this Article, or after a hearing officer or court order becomes final (the "due date"). All such delinquent sums shall bear interest at the rate of twelve (12) percent per annum after the due date.
+</section>
+<section prefix = "g">
+In lieu of the lien for unpaid civil penalties provided in Section 8CC-7 of the County Code, if the violator is a water customer, the Department may include the amount of any ordered civil penalty including costs and expenses in the water customer's bill for service and record a lien in accord with the provisions of Article VI of Chapter 32 of the County Code.
+</section>
+<section prefix = "h">
+Upon the rendition of a judgment or decree by any of the courts of this State, including appellate courts, against any person and in favor of the County to enforce compliance with this article or to award damages to the County, the court shall adjudge a reasonable sum as fees for the attorney acting on behalf of the County in that civil action, in addition to court costs.
+</section>
+<section prefix = "i">
+The following funds when received by the County shall be deposited in a separate County fund, for use by the Water and Sewer Department for administration and enforcement of this Article:
+<section prefix = "1">
+All civil penalties plus costs and expenses of enforcement, collected under Section 8CC-10 for violations of this Article.
+</section>
+<section prefix = "2">
+All damages, costs and attorney fees awarded as a result of court actions, pursuant to Section 32-168(d), (f) and (h).
+
+</section>
+</section>
+</text>
+<catch_line>Sec. 32-169. Fees and charges</catch_line>
+<text>
+Fees and charges imposed herein shall be subject to annual review and modification. The County Manager is hereby authorized to establish future modifications to the Department's fees by separate administrative order, which fees shall not become effective until approved by the Board of County Commissioners.
+</text>
+<footnote>
+FOOTNOTE(S):
+--- (9) ---
+Editor's note— Ord. No. 99-165, § 1, adopted Dec. 7, 1999, amended chapter 32 with the addition of article VII, sections 32-101—32-119. To avoid duplication of articles, the provisions of said ordinance have been included as article VIII, sections 32-151—32-169 at the discretion of the editor. (Back)
+
+</footnote>
+</law>

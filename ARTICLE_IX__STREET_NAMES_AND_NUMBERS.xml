@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="chapter" level="2">Chapter 33 ZONING</unit>
+		<unit label="title" level="3">ARTICLE_IX._STREET_NAMES_AND_NUMBERS</unit>
+	</structure>
+<catch_line>Sec. 33-138. Definitions</catch_line>
+<text>
+The following words and phrases are hereby defined as provided in this section, when used in this article:
+<section prefix = "1">
+Through streets. All thoroughfares making a continuous intersection across and extending for one (1) or more squares on both sides of Flagler Street and of Miami Avenue shall be deemed a through street.
+</section>
+<section prefix = "2">
+Square. The side of a block lying between two (2) through streets shall be deemed a square.
+</section>
+<section prefix = "3">
+Streets. All through streets running east and west shall be designated as streets.
+</section>
+<section prefix = "4">
+Avenues. All through streets running north and south shall be designated as avenues.
+</section>
+<section prefix = "5">
+Courts. All thoroughfares not deemed through streets located and running next parallel to an avenue shall be designated as courts.
+</section>
+<section prefix = "6">
+Places. All thoroughfares not deemed through streets located and running next parallel to a court shall be designated as places.
+</section>
+<section prefix = "7">
+Terraces. All thoroughfares not deemed through streets located and running next parallel to a street shall be designated as terraces.
+</section>
+<section prefix = "8">
+Lanes. All thoroughfares not deemed through streets located and running next parallel to a terrace shall be designated as lanes.
+</section>
+<section prefix = "9">
+Roads. All thoroughfares running diagonally and not a continuation of a north and south or east or west thoroughfare shall be designated as roads.
+</section>
+<section prefix = "10">
+Number unit. Each twelve and one-half (12½) feet of every lot shall be deemed a number unit.
+</section>
+<section prefix = "11">
+Base thoroughfares. Those certain streets herein named Miami Avenue and Flagler Street shall be deemed the base thoroughfare from which all street names and house numbers shall have their numerical beginning, running northerly, southerly, easterly and westerly.
+
+</section>
+</text>
+<catch_line>Sec. 33-139. Names and numbers to comply with article; authority of Department</catch_line>
+<text>
+<section prefix = "a">
+<section prefix = "1">
+The primary name of all public and private streets and avenues shall be named in accordance with the established numerical naming as hereinafter provided, a secondary name may be added to the established numerical naming as hereinafter provided, and all buildings shall be numbered as hereinafter provided.
+</section>
+<section prefix = "2">
+The Director of the Public Works Department and the Director may authorize exceptions to the established numerical naming of public and private streets and avenues as hereinafter provided.
+</section>
+</section>
+<section prefix = "b">
+The Department is hereby authorized to designate house numbers for buildings erected in the unincorporated area of the County, in accordance with this article.
+</section>
+</text>
+<history>(Ord. No. 57-19, § 32(A), 10-22-57; Ord. No. 86-38, § 1, 5-20-86; Ord. No. 95-215, § 1, 12-5-95)</history>
+<catch_line>Sec. 33-140. Sectional divisions</catch_line>
+<text>
+<section prefix = "a">
+The base thoroughfares shall be deemed to divide the County into four (4) sections, northeast, northwest, southeast and southwest.
+</section>
+<section prefix = "b">
+That portion of the County lying north of Flagler Street and east of Miami Avenue shall be indicated as the northeast, and all thoroughfares in said section shall add the letters NE to their names and designation.
+</section>
+<section prefix = "c">
+That portion of the County lying north of Flagler Street and west of Miami Avenue shall be indicated as the northwest and all thoroughfares in said section shall add the letters NW to their names and designation.
+</section>
+<section prefix = "d">
+That portion of the County lying south of Flagler Street and east of Miami Avenue shall be indicated as the southeast and all thoroughfares in said section shall add the letters SE to their names and designation.
+</section>
+<section prefix = "e">
+That portion of the County lying south of Flagler Street and west of Miami Avenue shall be indicated as the southwest and all thoroughfares in said section shall add the letters SW to their names and designation.
+</section>
+</text>
+<history>(Ord. No. 57-19, § 32(C), 10-22-57)</history>
+<catch_line>Sec. 33-141. Names of avenues</catch_line>
+<text>
+Avenues as herein defined shall derive their names as follows:
+<section prefix = "a">
+Each avenue lying east of the base thoroughfare Miami Avenue shall bear the numerical name indicating the number of squares easterly that it may be removed from said base thoroughfare.
+</section>
+<section prefix = "b">
+Each avenue lying west of the base thoroughfare Miami Avenue shall bear the numerical name indicating the number of squares westerly that it may be removed from said base thoroughfare.
+
+</section>
+</text>
+<catch_line>Sec. 33-142. Names of streets</catch_line>
+<text>
+Streets as herein defined shall derive their names as follows:
+<section prefix = "a">
+Each street lying north of the base thoroughfare Flagler Street shall bear the numerical name indicating the number of squares that such street may be removed from said base thoroughfare.
+</section>
+<section prefix = "b">
+Each street lying south of the base thoroughfare Flagler Street shall bear the numerical name indicating the number of squares that such street may be removed from said base thoroughfare.
+
+</section>
+</text>
+<catch_line>Sec. 33-143. Names of terraces</catch_line>
+<text>
+Terraces, as herein defined, shall derive their names as follows:
+<section prefix = "a">
+Each terrace lying north of the base thoroughfare Flagler Street shall derive its name from the next southerly street.
+</section>
+<section prefix = "b">
+Each terrace lying south of the base thoroughfare Flagler Street shall drive its name from the next northerly street.
+
+</section>
+</text>
+<catch_line>Sec. 33-144. Name of lanes</catch_line>
+<text>
+Lanes, as herein defined, shall derive their names as follows:
+<section prefix = "a">
+Each lane lying north of the base thoroughfare Flagler Street shall drive its name from the next southerly street.
+</section>
+<section prefix = "b">
+Each lane lying south of the base thoroughfare Flagler Street shall derive its name from the next northerly street.
+
+</section>
+</text>
+<catch_line>Sec. 33-145. Names of courts</catch_line>
+<text>
+Courts as herein defined, shall drive their names as follows:
+<section prefix = "a">
+Each court lying east of the base thoroughfare Miami Avenue shall derive its name from the next westerly avenue.
+</section>
+<section prefix = "b">
+Each court lying west of the base thoroughfare Miami Avenue shall derive its name from the next easterly avenue.
+
+</section>
+</text>
+<catch_line>Sec. 33-146. Names of places</catch_line>
+<text>
+Places as herein defined shall derive their names as follows:
+<section prefix = "a">
+Each place lying east of the base thoroughfare Miami Avenue shall derive its name from the next westerly avenue.
+</section>
+<section prefix = "b">
+Each place lying west of the base thoroughfare Miami Avenue shall derive its name from the next easterly avenue.
+
+</section>
+</text>
+<catch_line>Sec. 33-147. Numbering buildings</catch_line>
+<text>
+The numbering of all buildings shall be in conformity with the following system:
+<section prefix = "a">
+All numbering of number units shall begin from base thoroughfare; the north and east sides of the streets having the odd number and the south and west sides having the even numbers.
+</section>
+<section prefix = "b">
+The numbers of each number unit in a square shall increase in arithmetical progression of two (2) as the number units recede from the base thoroughfare.
+</section>
+<section prefix = "c">
+The numbers of the number units in the first squares adjoining a base thoroughfare shall begin with one (1) on the north and east sides and two (2) on the south and west sides and progress arithmetically by two's for each successive number unit space from the base thoroughfare, to the next street or avenue.
+</section>
+<section prefix = "d">
+The numbering of number units in each square shall begin with that one hundred (100) number indicating the number of squares it may be removed from the base thoroughfare, and numbers shall advance by one hundreds only by squares as herein defined.
+
+</section>
+</text>
+<catch_line>Sec. 33-148. Street naming and numbering plat</catch_line>
+<text>
+<section prefix = "a">
+The Director of Public Works is hereby directed to make without delay special maps or plats of the County covering all additions or subdivisions recorded or generally known and available within the County limits; designating the names of streets and number units by the numbers as herein provided.
+</section>
+<section prefix = "b">
+The said maps or plats shall be known as the street naming and numbering plat and be kept open to the public for reference in the Department.
+</section>
+<section prefix = "c">
+Hereafter all buildings, houses, portions of land and lots adjacent to or abutting upon streets, avenues, places, terraces, courts, lanes and roads of the County shall be known and designated by the numbers indicated on said plats referred to in this section.
+</section>
+</text>
+<history>(Ord. No. 57-19, § 32(K), 10-22-57; Ord. No. 95-215, § 1, 12-5-95)</history>
+<catch_line>Sec. 33-149. Duty of owners of buildings</catch_line>
+<text>
+<section prefix = "a">
+It shall be the duty of the owner of any building facing, abutting, opening or having its main entrance from any right-of-way in the County to have affixed to such building suitable numbers composed of figures not less than three (3) inches in height, and/or panel upon glass or some metallic substance, in accordance with the plats referred to in Section 33-148(a) hereof.
+</section>
+<section prefix = "b">
+All buildings constructed, erected or removed after January 31, 1941 shall upon completion of their construction, erection or removal be numbered by the owner thereof as per Section 33-148 hereof.
+</section>
+<section prefix = "c">
+It shall be the duty of the owner to maintain numbers of his buildings as herein provided in good condition and in a conspicuous place where same can be seen and read from the street.
+</section>
+<section prefix = "d">
+The word "owner" as used in this article shall include owners of the fee, lessee and "agent in charge."
+</section>
+</text>
+<history>(Ord. No. 57-19, § 32(L), 10-22-57)</history>
+</law>
